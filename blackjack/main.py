@@ -154,7 +154,6 @@ def hit():
 
             chip_pool -= bet
             playing = False
-
     else:
         result = "Sorry, can't hit " + restart_phrase
 
