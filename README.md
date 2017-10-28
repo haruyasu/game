@@ -1,2 +1,2 @@
 # Python Game
-Python Game
+Python training
